@@ -39,4 +39,4 @@ This project is an interactive **Power BI dashboard** designed to analyze and vi
 
 ## 📬 Contact
 For queries or collaboration:perweentammna@gmail.com 
-LinkedIn: [Your LinkedIn Profile]([(https://github.com/TamannaPerween)](https://www.linkedin.com/in/tamannaperween/))
+LinkedIn: [Your LinkedIn Profile]((https://github.com/TamannaPerween)](https://www.linkedin.com/in/tamannaperween/))
